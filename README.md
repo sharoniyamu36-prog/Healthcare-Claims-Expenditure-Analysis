@@ -1,6 +1,6 @@
 # Healthcare Claims Expenditure Analysis | Power BI
 
-## 1. Project Overview
+## 1. Project Overview.
 
 This project focuses on analysing healthcare insurance claims to understand the relationship between claimed amounts and approved amounts, identify expenditure patterns, and determine the categories contributing most to overall claims expenditure.
 
