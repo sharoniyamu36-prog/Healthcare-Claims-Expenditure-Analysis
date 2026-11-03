@@ -96,8 +96,8 @@ The analysis produced the following overall metrics:
 
 | KPI | Result |
 |---|---:|
-| Total Claim Amount | 5,728,044.06 |
-| Total Approved Amount | 4,755,141.57 |
+| Total Claim Amount | $5,728,044.06 |
+| Total Approved Amount | $4,755,141.57 |
 | Claim Approval Gap | 972,902.49 |
 | Approval Amount / Claim Amount | 83.02% |
 | Total Claims | 10,000 |
@@ -105,7 +105,7 @@ The analysis produced the following overall metrics:
 The approval percentage represents the ratio of recorded approved amounts to total claimed amounts. It should not be interpreted as the percentage of individual claims approved.
 
 ## 7. Dashboard Visualisations
-[Healthcare Claims Dashboard](images/healthcare_claims_dashboard.png)
+[Healthcare Claims Dashboard](healthcare_claims_dashboard.png)
 
 The Power BI dashboard was designed to provide a clear overview of healthcare claims expenditure.
 
